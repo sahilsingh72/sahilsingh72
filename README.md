@@ -1,146 +1,227 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== PROFILE HEADER ===================== -->
 
-<h1 align="center">Hi 👋, I'm Sahil Singh</h1>
+<h1 align="center">Hey there, I'm Sahil Singh 👋</h1>
 
 <h3 align="center">
-  💻 PHP & Laravel Developer | Full-Stack Web Developer | Problem Solver
+  PHP & Laravel Developer | Full-Stack Developer | DevOps Enthusiast
 </h3>
 
 <p align="center">
-  Building scalable web applications, secure backend systems, and data-driven MIS portals.
+  Building reliable web applications, automating workflows, and delivering scalable software solutions.
 </p>
 
 <p align="center">
   <a href="https://github.com/sahilsingh72">
-    <img src="https://komarev.com/ghpvc/?username=sahilsingh72&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=sahilsingh72&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/sahilsingh72?tab=followers">
-    <img src="https://img.shields.io/github/followers/sahilsingh72?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/sahilsingh72?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a developer passionate about building **efficient, scalable, and user-friendly web applications** that solve real-world problems.
+I'm a software developer passionate about building **scalable web applications, robust backend systems, and efficient development and deployment workflows**.
 
-- 💻 Specializing in **PHP, Laravel, CodeIgniter, and MySQL**
-- 🏗️ Experienced in developing **MIS portals, administrative dashboards, and data management systems**
-- 🔐 Interested in secure authentication, authorization, API development, and database optimization
-- 📊 Working with data-driven applications, reporting systems, and workflow automation
-- 🛠️ Experienced in application maintenance, debugging, deployment, and feature development
-- 🌱 Continuously learning about system design, REST APIs, performance optimization, and modern web technologies
-- 🤝 Open to collaborating on interesting web development and open-source projects
-- 📍 Based in India 🇮🇳
+My work combines backend development, database engineering, application integration, and DevOps practices to deliver practical solutions for real-world business requirements.
+
+- 💻 **Backend Development:** PHP, Laravel, CodeIgniter 3, MySQL
+- 🎨 **Frontend Development:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, jQuery
+- ⚙️ **DevOps & CI/CD:** GitLab CI/CD, pipeline configuration, Git-based workflows, and deployment troubleshooting
+- 🗄️ **Database Engineering:** SQL queries, relational database design, data migration, and query optimization
+- 🔌 **API & Integrations:** REST APIs, Microsoft Graph API, and cloud storage integration
+- 📊 **Enterprise Applications:** MIS portals, monitoring dashboards, workflow automation, and reporting systems
+- 🔐 **Application Security:** Authentication, authorization, role-based access control, and secure coding practices
+- 🛠️ **Engineering Practices:** Debugging, production issue resolution, application maintenance, and performance optimization
+- 🌱 **Continuous Learning:** System design, deployment automation, cloud technologies, and infrastructure best practices
+- 🇮🇳 Based in India
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Technical Skills
 
 ### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,css" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css" alt="PHP, JavaScript, HTML, CSS" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
+
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,jquery" alt="Frameworks and Libraries" />
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,jquery" alt="Laravel, Bootstrap, Tailwind CSS, jQuery" />
 </p>
 
-### 🗄️ Databases & Backend
+### 🗄️ Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="MySQL and SQLite" />
 </p>
 
-### 🛠️ Development Tools & Platforms
+### 🚀 DevOps, CI/CD & Infrastructure
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,composer,npm,linux" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,bash,docker,nginx,apache" alt="Git, GitHub, GitLab, Linux, Bash, Docker, Nginx, Apache" />
 </p>
 
-### 🔌 Backend Development & Core Concepts
+**DevOps & Deployment Skills**
 
-- **Backend Development:** Laravel, CodeIgniter 3, PHP
-- **Database Management:** MySQL, SQL, relational database design, joins, indexing, and query optimization
-- **API Development:** REST APIs, HTTP methods, status codes, JSON
-- **Authentication & Security:** Authentication, authorization, role-based access control, input validation
-- **Frontend Development:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, jQuery
-- **Application Architecture:** MVC architecture, reusable components, modular application development
-- **File Processing:** Excel imports, PDF generation, document management, file uploads
-- **Version Control & Deployment:** Git, GitHub, GitLab, CI/CD fundamentals
-- **Integrations:** Microsoft Graph API and cloud file storage integration
+- **Version Control:** Git, GitHub, GitLab
+- **CI/CD:** GitLab CI/CD, `.gitlab-ci.yml` pipeline configuration, build and deployment workflows
+- **Local Development:** XAMPP, PHP configuration, Composer, Node.js, npm
+- **Application Deployment:** Environment configuration, dependency management, storage and file permissions, deployment troubleshooting
+- **Server & Runtime Troubleshooting:** PHP configuration, application logs, runtime errors, and production issue diagnosis
+- **Web Infrastructure:** Understanding of web servers, application hosting, and HTTP request handling
+
+*Docker, Nginx, Apache, Linux, and Bash are included as technologies to showcase only if you have hands-on experience with them. Remove any that you haven't used.*
+
+### 🔌 Backend Engineering
+
+- Laravel MVC architecture and CodeIgniter 3
+- RESTful API development and integration
+- Authentication, authorization, and role-based access control
+- MySQL schema design, joins, indexing, and query optimization
+- Database migrations, bulk imports, and data validation
+- PDF generation, Excel processing, and document management
+- File uploads, validation, previews, and storage integrations
+- Error handling, debugging, and application maintenance
 
 ---
 
-## 💼 What I Build
+## ⚙️ DevOps & Software Delivery
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📊 MIS Portals & Dashboards</h3>
-      <p>Administrative portals with role-based access, reporting, data management, and workflow automation.</p>
-    </td>
-    <td width="50%">
-      <h3>🏛️ Government Project Applications</h3>
-      <p>Web applications supporting training programs, institutional workflows, monitoring, and evidence collection.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📚 Data & Management Systems</h3>
-      <p>Inventory management, student records, registration workflows, bulk imports, and database-driven applications.</p>
-    </td>
-    <td width="50%">
-      <h3>🔗 API & Integration Solutions</h3>
-      <p>Backend APIs, third-party integrations, cloud file storage, document processing, and reporting systems.</p>
-    </td>
-  </tr>
-</table>
+I work across the application development lifecycle, from writing backend code to troubleshooting build, configuration, and deployment issues.
+
+### 🔄 CI/CD & Version Control
+- Configuring and maintaining GitLab CI/CD workflows.
+- Working with `.gitlab-ci.yml` to define pipeline stages and jobs.
+- Managing source code with Git and GitLab.
+- Troubleshooting dependency, configuration, and deployment failures.
+
+### 🖥️ Environment & Application Management
+- Configuring PHP environments and development tools.
+- Managing Composer dependencies and npm packages.
+- Troubleshooting PHP, MySQL, and application runtime issues.
+- Handling environment-specific configuration and application storage requirements.
+- Supporting application maintenance and production issue resolution.
+
+### 🔐 Reliability & Security
+- Maintaining compatible PHP runtime versions and dependencies.
+- Investigating application errors and configuration problems.
+- Applying secure coding practices and validating inputs.
+- Understanding the importance of environment variables, secret management, backups, and controlled deployments.
 
 ---
 
-## 🌟 Featured Projects
+## 💼 Professional Experience & Project Contributions
 
-### 🚀 EmergingTech — Training & Awareness MIS
-A web application supporting training and awareness programs across multiple districts and training centers.
+My development work includes government and institutional applications, data-driven MIS platforms, administrative dashboards, training management systems, and monitoring solutions.
 
-- Training and batch management
-- Attendance and evidence collection
-- Photo, video, and document uploads
-- Role-based dashboards and workflows
-- Training completion tracking
+### 🚀 1. EmergingTech — Training & Awareness MIS
 
-**Tech:** Laravel/PHP, MySQL, JavaScript, HTML, CSS
+Contributed to a platform supporting statewide training and awareness programs focused on emerging technologies.
 
-### 📦 PACS Portal
-A data-driven application supporting learner enrollment, attendance, verification, and course progression.
+**Key contributions**
+- Training batch and program management.
+- Attendance management and evidence collection.
+- Training photo, video, and document uploads.
+- Training completion workflows and validation.
+- Administrative dashboards and role-based functionality.
+- Application support, maintenance, and feature enhancements.
 
-- Learner enrollment and verification
-- Attendance and evidence management
-- Course progression and completion tracking
-- Administrative dashboards
+**Technologies:** PHP/Laravel, MySQL, JavaScript, HTML, CSS
 
-**Tech:** PHP/Laravel, MySQL, JavaScript
+### 📦 2. PACS Portal
 
-### 🖥️ Asset Monitoring Portal
-An application for managing and monitoring assets across locations.
+Contributed to developing a portal for managing learner enrollment and course-related workflows.
 
-- Asset onboarding and site configuration
-- Issue redressal workflows
-- Field visit monitoring
-- Bulk data upload
-- Dashboard-based monitoring
+**Key contributions**
+- ALC dashboard development.
+- Learner enrollment and verification.
+- Attendance and evidence collection.
+- Course progression and completion tracking.
+- CS configuration and related management workflows.
+- Database-driven features and dashboard functionality.
 
-**Tech:** PHP/Laravel, MySQL, JavaScript
+**Technologies:** PHP, Laravel, MySQL, JavaScript
 
-> These projects represent development work and responsibilities I've contributed to. Some applications may be private or organization-owned, so their source code may not be publicly available.
+### 🖥️ 3. Asset Monitoring Portal
+
+Worked on application functionality for asset onboarding, monitoring, and issue management.
+
+**Key contributions**
+- System Integrator dashboard development.
+- Asset onboarding and site configuration.
+- Issue redressal workflows.
+- Field visit monitoring.
+- Bulk upload functionality.
+- Project demonstrations and technical support for stakeholders.
+
+**Technologies:** PHP/Laravel, MySQL, JavaScript
+
+### ✍️ 4. Lekha Odia — Committee & Evidence Management
+
+Contributed to modules for committee management and evidence collection in a digital Odia typing tool project.
+
+**Key contributions**
+- District-level and block-level committee member management.
+- ALC-to-block assignment functionality.
+- Committee configuration and maintenance.
+- Learner photo, group photo, attendance, and testimonial evidence collection.
+- Enhancements to existing application workflows.
+
+**Technologies:** PHP, Web Development, MySQL
+
+### 📊 5. Statewide Feedback Application — Skill Gap Analysis
+
+Contributed to developing a web application for collecting feedback to support skill gap analysis.
+
+**Focus areas**
+- Web application development.
+- Data collection workflows.
+- Structured information management.
+- Database-driven functionality.
+
+### 🎓 6. Higher Education & OSDP 2.0 Portals
+
+Contributed to portal development initiatives supporting internship-related workflows and capacity-building activities.
+
+**Focus areas**
+- Portal feature development.
+- Data-driven web application functionality.
+- Training and awareness workflow support.
+- Application configuration and maintenance.
+
+**Technologies:** PHP/Laravel, MySQL, JavaScript, HTML, CSS
+
+> Some projects are organization-owned or privately hosted. Project descriptions reflect development contributions and do not imply ownership of the underlying applications or source code.
 
 ---
 
-## 📈 GitHub Analytics
+## 🛠️ Other Technical Work
+
+Beyond feature development, I've worked on practical engineering challenges, including:
+
+- Resolving PHP version compatibility and runtime configuration issues.
+- Troubleshooting MySQL database errors, schema changes, and foreign key constraints.
+- Implementing Excel imports with data validation and date conversion.
+- Generating PDFs and handling document formatting challenges.
+- Integrating Microsoft Graph API for cloud file storage.
+- Building role-based dashboards and access-controlled workflows.
+- Implementing file upload validation, progress indicators, and evidence management.
+- Investigating application deployment issues and CI/CD pipeline failures.
+- Maintaining existing applications while delivering new features.
+
+These experiences help me understand the complete lifecycle of a web application, from database design and implementation to deployment and maintenance.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sahilsingh72&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sahil's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sahilsingh72&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh72&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
@@ -150,25 +231,27 @@ An application for managing and monitoring assets across locations.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Learning & Focus
 
-- 🚀 Building scalable applications with Laravel
-- 🔌 Developing and integrating REST APIs
-- 🗄️ Improving SQL query performance and database design
-- 🔐 Following secure coding practices
-- 🧩 Learning system design and software architecture
-- 🤖 Exploring AI-powered features and document text extraction
-- 🌐 Improving deployment workflows and CI/CD practices
+- 🚀 Building scalable applications using Laravel.
+- 🔌 Designing and integrating REST APIs.
+- 🗄️ Improving database performance and SQL optimization.
+- 🔄 Strengthening CI/CD and deployment automation skills.
+- 🐳 Exploring containerization and Docker-based workflows.
+- ☁️ Learning cloud infrastructure and deployment practices.
+- 🔐 Improving application security and production reliability.
+- 🧠 Studying system design, software architecture, and maintainable code.
+- 🤖 Exploring AI integrations and document text extraction.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/sahilsingh72">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="linkedin.com/in/sahil-singh-b03221319">
+  <a href="https://www.linkedin.com/in/sahil-singh-b03221319/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sahilsinghgbss1@gmail.com">
@@ -177,13 +260,13 @@ An application for managing and monitoring assets across locations.
 </p>
 
 <p align="center">
-  💬 Open to discussing web development, backend engineering, and interesting projects.
+  💬 Interested in backend development, Laravel projects, DevOps practices, and meaningful engineering challenges.
 </p>
 
 ---
 
 <p align="center">
-  <i>"Great software is built by solving real problems, one line of code at a time."</i>
+  <i>"Build with purpose. Automate with confidence. Improve continuously."</i>
 </p>
 
 <p align="center">
